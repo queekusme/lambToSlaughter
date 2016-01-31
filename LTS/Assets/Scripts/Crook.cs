@@ -35,6 +35,11 @@ public class Crook : MonoBehaviour {
 
     }
 
+    IEnumerator setACTrue() {
+        while (!sheep.GetComponent<PlatformerCharacter2D>().m_Anim.GetBool("Ground")) { yield return new WaitForEndOfFrame(); }
+        sheep.GetComponent<PlatformerCharacter2D>().m_AirControl = true;
+    }
+
     IEnumerator waitThenFling(Vector2 force)
     {
         yield return new WaitForSeconds(1.5f);
@@ -43,7 +48,14 @@ public class Crook : MonoBehaviour {
             frames2 = 0;
             AudioManager.instance.PlaySound2D("Shepherd Attack");
         }
+        bool ac = sheep.GetComponent<PlatformerCharacter2D>().m_AirControl;
+
+        sheep.GetComponent<PlatformerCharacter2D>().m_AirControl = false;
         sheep.GetComponent<Rigidbody2D>().velocity = force;
+        if (ac)  {
+            StartCoroutine(setACTrue());
+        }
+
         m_Anim.SetBool("Crook", false);
     }
 
