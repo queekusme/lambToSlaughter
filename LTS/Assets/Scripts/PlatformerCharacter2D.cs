@@ -22,6 +22,8 @@ namespace UnityStandardAssets._2D
 
         private void Awake()
         {
+
+            m_AirControl = (PlayerPrefs.GetInt("air control", 0) == 1);
             // Setting up references.
             m_GroundCheck = transform.Find("GroundCheck");
             m_CeilingCheck = transform.Find("CeilingCheck");

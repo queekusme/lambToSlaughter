@@ -12,6 +12,8 @@ public class Crook : MonoBehaviour {
     void Update() {
         frames++;
         frames2++;
+
+        if (frames > 100) { m_Anim.SetBool("Crook", false); }
         if (frames > 100 && Input.GetKey(KeyCode.RightControl))
         {
             m_Anim.SetBool("Crook", true);
@@ -23,12 +25,11 @@ public class Crook : MonoBehaviour {
         if (getDistance(this.gameObject, sheep) < 6 && m_Anim.GetBool("Crook")) {
 
             Vector2 force = new Vector2();
-            force.x = 15;
-            force.y = 1;
+            force.x = 5;
+            force.y = 2.5f;
 
             if (GetComponent<SpriteRenderer>().flipX) { force.x *= -1; }
-
-
+            
             StartCoroutine(waitThenFling(force));
         }
 

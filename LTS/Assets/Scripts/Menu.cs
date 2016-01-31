@@ -17,11 +17,14 @@ public class Menu : MonoBehaviour {
     public int[] screenWidths;
     int activeScreenResIndex;
 
+    public Toggle airControl;
+
     public AudioClip menuTheme;
     public AudioClip gameTheme;
 
     void Start() {
         activeScreenResIndex = PlayerPrefs.GetInt("screen res index");
+        airControl.isOn = (PlayerPrefs.GetInt("air control") == 1);
         bool isFullscreen = (PlayerPrefs.GetInt("fullscreen") == 1) ? true : false;
 
         volumeSliders[0].value = AudioManager.instance.masterVolumePercent;
@@ -59,6 +62,8 @@ public class Menu : MonoBehaviour {
         optionsMenuHolder.SetActive(false);
         creditsMenuHolder.SetActive(false);
     }
+
+    public void AirControl(bool ac) { PlayerPrefs.SetInt("air control", ac?1:0); }
 
     public void SetScreenResolution(int i) {
         if (resolutionToggles[i].isOn) {
