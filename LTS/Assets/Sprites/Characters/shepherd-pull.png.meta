@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 6e75f8e7b96d5aa429c3c19c36019eb3
+timeCreated: 1454200050
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: shepherd-pull_0
+    21300002: shepherd-pull_1
+    21300004: shepherd-pull_2
+    21300006: shepherd-pull_3
+    21300008: shepherd-pull_4
+    21300010: shepherd-pull_5
+    21300012: shepherd-pull_6
+    21300014: shepherd-pull_7
+    21300016: shepherd-pull_8
+    21300018: shepherd-pull_9
+    21300020: shepherd-pull_10
+    21300022: shepherd-pull_11
+    21300024: shepherd-pull_12
+    21300026: shepherd-pull_13
+    21300028: shepherd-pull_14
+    21300030: shepherd-pull_15
+    21300032: shepherd-pull_16
+    21300034: shepherd-pull_17
+    21300036: shepherd-pull_18
+    21300038: shepherd-pull_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: shepherd-pull_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 714
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 72}
+        - {x: -64.5, y: 58}
+        - {x: -59.5, y: 52}
+        - {x: -20.5, y: 49}
+        - {x: -13.5, y: 56}
+        - {x: -15.5, y: 72}
+        - {x: -24.5, y: 78}
+        - {x: -22.5, y: 86}
+        - {x: -0.5, y: 53}
+        - {x: -22.5, y: -19}
+        - {x: -30.5, y: -103}
+        - {x: -15.5, y: -118}
+        - {x: 107.5, y: -118}
+        - {x: 107.5, y: 66}
+        - {x: 63.5, y: 108}
+        - {x: 1.5, y: 118}
+        - {x: -64.5, y: 118}
+        - {x: -65.5, y: 114}
+    - name: shepherd-pull_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 714
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 72}
+        - {x: -64.5, y: 58}
+        - {x: -59.5, y: 52}
+        - {x: -20.5, y: 49}
+        - {x: -13.5, y: 56}
+        - {x: -15.5, y: 72}
+        - {x: -24.5, y: 78}
+        - {x: -22.5, y: 86}
+        - {x: -0.5, y: 53}
+        - {x: -22.5, y: -19}
+        - {x: -30.5, y: -103}
+        - {x: -15.5, y: -118}
+        - {x: 107.5, y: -118}
+        - {x: 107.5, y: 66}
+        - {x: 63.5, y: 108}
+        - {x: 1.5, y: 118}
+        - {x: -64.5, y: 118}
+        - {x: -65.5, y: 114}
+    - name: shepherd-pull_2
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 714
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 72}
+        - {x: -64.5, y: 58}
+        - {x: -59.5, y: 52}
+        - {x: -20.5, y: 49}
+        - {x: -13.5, y: 56}
+        - {x: -15.5, y: 72}
+        - {x: -24.5, y: 78}
+        - {x: -22.5, y: 86}
+        - {x: -0.5, y: 53}
+        - {x: -22.5, y: -19}
+        - {x: -30.5, y: -103}
+        - {x: -15.5, y: -118}
+        - {x: 107.5, y: -118}
+        - {x: 107.5, y: 66}
+        - {x: 63.5, y: 108}
+        - {x: 1.5, y: 118}
+        - {x: -64.5, y: 118}
+        - {x: -65.5, y: 114}
+    - name: shepherd-pull_3
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 714
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -193.5, y: -13}
+        - {x: -193.5, y: -44}
+        - {x: -173.5, y: -69}
+        - {x: -108.5, y: -55}
+        - {x: -101.5, y: -15}
+        - {x: -127.5, y: -11}
+        - {x: -137.5, y: -25}
+        - {x: -140.5, y: -32}
+        - {x: -153.5, y: -5}
+        - {x: -115.5, y: -8}
+        - {x: -33.5, y: 1}
+        - {x: -51.5, y: -92}
+        - {x: -51.5, y: -98}
+        - {x: -33.5, y: -118}
+        - {x: -26.5, y: -118}
+        - {x: -18.5, y: -113}
+        - {x: 7.5, y: -118}
+        - {x: 120.5, y: -118}
+        - {x: 120.5, y: 102}
+        - {x: -10.5, y: 102}
+        - {x: -180.5, y: 17}
+    - name: shepherd-pull_4
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 714
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -193.5, y: -13}
+        - {x: -193.5, y: -44}
+        - {x: -173.5, y: -69}
+        - {x: -108.5, y: -55}
+        - {x: -101.5, y: -15}
+        - {x: -127.5, y: -11}
+        - {x: -137.5, y: -25}
+        - {x: -140.5, y: -32}
+        - {x: -153.5, y: -5}
+        - {x: -115.5, y: -8}
+        - {x: -33.5, y: 1}
+        - {x: -51.5, y: -92}
+        - {x: -51.5, y: -98}
+        - {x: -33.5, y: -118}
+        - {x: -26.5, y: -118}
+        - {x: -18.5, y: -113}
+        - {x: 7.5, y: -118}
+        - {x: 120.5, y: -118}
+        - {x: 120.5, y: 102}
+        - {x: -10.5, y: 102}
+        - {x: -180.5, y: 17}
+    - name: shepherd-pull_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -193.5, y: -13}
+        - {x: -193.5, y: -44}
+        - {x: -173.5, y: -69}
+        - {x: -108.5, y: -55}
+        - {x: -101.5, y: -15}
+        - {x: -127.5, y: -11}
+        - {x: -137.5, y: -25}
+        - {x: -140.5, y: -32}
+        - {x: -153.5, y: -5}
+        - {x: -115.5, y: -8}
+        - {x: -33.5, y: 1}
+        - {x: -51.5, y: -92}
+        - {x: -51.5, y: -98}
+        - {x: -33.5, y: -118}
+        - {x: -26.5, y: -118}
+        - {x: -18.5, y: -113}
+        - {x: 7.5, y: -118}
+        - {x: 120.5, y: -118}
+        - {x: 120.5, y: 102}
+        - {x: -10.5, y: 102}
+        - {x: -180.5, y: 17}
+    - name: shepherd-pull_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 476
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 102}
+        - {x: -193.5, y: 5}
+        - {x: -196.5, y: -9}
+        - {x: -196.5, y: -84}
+        - {x: -153.5, y: -98}
+        - {x: -123.5, y: -91}
+        - {x: -85.5, y: -48}
+        - {x: -104.5, y: -25}
+        - {x: -125.5, y: -29}
+        - {x: -37.5, y: 0}
+        - {x: -59.5, y: -117}
+        - {x: -59.5, y: -119}
+        - {x: 121.5, y: -119}
+        - {x: 121.5, y: 24}
+        - {x: 86.5, y: 102}
+      - - {x: -132.5, y: -32}
+        - {x: -135.5, y: -35}
+        - {x: -135.5, y: -36}
+        - {x: -133.5, y: -38}
+        - {x: -131.5, y: -38}
+        - {x: -129.5, y: -36}
+        - {x: -129.5, y: -34}
+        - {x: -131.5, y: -32}
+    - name: shepherd-pull_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 476
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 102}
+        - {x: -193.5, y: 5}
+        - {x: -196.5, y: -9}
+        - {x: -196.5, y: -84}
+        - {x: -153.5, y: -98}
+        - {x: -123.5, y: -91}
+        - {x: -85.5, y: -48}
+        - {x: -104.5, y: -25}
+        - {x: -125.5, y: -29}
+        - {x: -37.5, y: 0}
+        - {x: -59.5, y: -117}
+        - {x: -59.5, y: -119}
+        - {x: 121.5, y: -119}
+        - {x: 121.5, y: 24}
+        - {x: 86.5, y: 102}
+      - - {x: -132.5, y: -32}
+        - {x: -135.5, y: -35}
+        - {x: -135.5, y: -36}
+        - {x: -133.5, y: -38}
+        - {x: -131.5, y: -38}
+        - {x: -129.5, y: -36}
+        - {x: -129.5, y: -34}
+        - {x: -131.5, y: -32}
+    - name: shepherd-pull_8
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 476
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 102}
+        - {x: -193.5, y: 5}
+        - {x: -196.5, y: -9}
+        - {x: -196.5, y: -84}
+        - {x: -153.5, y: -98}
+        - {x: -123.5, y: -91}
+        - {x: -85.5, y: -48}
+        - {x: -104.5, y: -25}
+        - {x: -125.5, y: -29}
+        - {x: -37.5, y: 0}
+        - {x: -59.5, y: -117}
+        - {x: -59.5, y: -119}
+        - {x: 121.5, y: -119}
+        - {x: 121.5, y: 24}
+        - {x: 86.5, y: 102}
+      - - {x: -132.5, y: -32}
+        - {x: -135.5, y: -35}
+        - {x: -135.5, y: -36}
+        - {x: -133.5, y: -38}
+        - {x: -131.5, y: -38}
+        - {x: -129.5, y: -36}
+        - {x: -129.5, y: -34}
+        - {x: -131.5, y: -32}
+    - name: shepherd-pull_9
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 476
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 84}
+        - {x: -89.5, y: 7}
+        - {x: -128.5, y: -27}
+        - {x: -128.5, y: -51}
+        - {x: -117.5, y: -61}
+        - {x: -17.5, y: -66}
+        - {x: 52.5, y: 9}
+        - {x: 57.5, y: 20}
+        - {x: 57.5, y: 25}
+        - {x: 53.5, y: 29}
+        - {x: 57.5, y: 28}
+        - {x: 57.5, y: 24}
+        - {x: 61.5, y: 20}
+        - {x: 64.5, y: 19}
+        - {x: 58.5, y: -74}
+        - {x: -66.5, y: -100}
+        - {x: -45.5, y: -118}
+        - {x: 182.5, y: -118}
+        - {x: 199.5, y: -100}
+        - {x: 199.5, y: 84}
+    - name: shepherd-pull_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 84}
+        - {x: -89.5, y: 7}
+        - {x: -128.5, y: -27}
+        - {x: -128.5, y: -51}
+        - {x: -117.5, y: -61}
+        - {x: -17.5, y: -66}
+        - {x: 52.5, y: 9}
+        - {x: 57.5, y: 20}
+        - {x: 57.5, y: 25}
+        - {x: 53.5, y: 29}
+        - {x: 57.5, y: 28}
+        - {x: 57.5, y: 24}
+        - {x: 61.5, y: 20}
+        - {x: 64.5, y: 19}
+        - {x: 58.5, y: -74}
+        - {x: -66.5, y: -100}
+        - {x: -45.5, y: -118}
+        - {x: 182.5, y: -118}
+        - {x: 199.5, y: -100}
+        - {x: 199.5, y: 84}
+    - name: shepherd-pull_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 238
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200.5, y: -118}
+        - {x: 200.5, y: -75}
+        - {x: 193.5, y: -71}
+        - {x: 186.5, y: 56}
+        - {x: 112.5, y: 87}
+        - {x: 66.5, y: 87}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: -14}
+        - {x: 19.5, y: -34}
+        - {x: 57.5, y: 6}
+        - {x: 46.5, y: 16}
+        - {x: 37.5, y: 17}
+        - {x: 30.5, y: 17}
+        - {x: 26.5, y: 15}
+        - {x: 27.5, y: 17}
+        - {x: 63.5, y: 20}
+        - {x: 51.5, y: -116}
+        - {x: 55.5, y: -118}
+        - {x: 74.5, y: -118}
+        - {x: 76.5, y: -116}
+        - {x: 77.5, y: -110}
+        - {x: 93.5, y: -118}
+    - name: shepherd-pull_12
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 238
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200.5, y: -118}
+        - {x: 200.5, y: -75}
+        - {x: 193.5, y: -71}
+        - {x: 186.5, y: 56}
+        - {x: 112.5, y: 87}
+        - {x: 66.5, y: 87}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: -14}
+        - {x: 19.5, y: -34}
+        - {x: 57.5, y: 6}
+        - {x: 46.5, y: 16}
+        - {x: 37.5, y: 17}
+        - {x: 30.5, y: 17}
+        - {x: 26.5, y: 15}
+        - {x: 27.5, y: 17}
+        - {x: 63.5, y: 20}
+        - {x: 51.5, y: -116}
+        - {x: 55.5, y: -118}
+        - {x: 74.5, y: -118}
+        - {x: 76.5, y: -116}
+        - {x: 77.5, y: -110}
+        - {x: 93.5, y: -118}
+    - name: shepherd-pull_13
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 238
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200.5, y: -118}
+        - {x: 200.5, y: -75}
+        - {x: 193.5, y: -71}
+        - {x: 186.5, y: 56}
+        - {x: 112.5, y: 87}
+        - {x: 66.5, y: 87}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: -14}
+        - {x: 19.5, y: -34}
+        - {x: 57.5, y: 6}
+        - {x: 46.5, y: 16}
+        - {x: 37.5, y: 17}
+        - {x: 30.5, y: 17}
+        - {x: 26.5, y: 15}
+        - {x: 27.5, y: 17}
+        - {x: 63.5, y: 20}
+        - {x: 51.5, y: -116}
+        - {x: 55.5, y: -118}
+        - {x: 74.5, y: -118}
+        - {x: 76.5, y: -116}
+        - {x: 77.5, y: -110}
+        - {x: 93.5, y: -118}
+    - name: shepherd-pull_14
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 238
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 200.5, y: -118}
+        - {x: 200.5, y: -75}
+        - {x: 193.5, y: -71}
+        - {x: 186.5, y: 56}
+        - {x: 112.5, y: 87}
+        - {x: 66.5, y: 87}
+        - {x: -19.5, y: 50}
+        - {x: -19.5, y: -14}
+        - {x: 19.5, y: -34}
+        - {x: 57.5, y: 6}
+        - {x: 46.5, y: 16}
+        - {x: 37.5, y: 17}
+        - {x: 30.5, y: 17}
+        - {x: 26.5, y: 15}
+        - {x: 27.5, y: 17}
+        - {x: 63.5, y: 20}
+        - {x: 51.5, y: -116}
+        - {x: 55.5, y: -118}
+        - {x: 74.5, y: -118}
+        - {x: 76.5, y: -116}
+        - {x: 77.5, y: -110}
+        - {x: 93.5, y: -118}
+    - name: shepherd-pull_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -18}
+        - {x: 47.5, y: -19}
+        - {x: 47.5, y: -118}
+        - {x: 187.5, y: -118}
+        - {x: 187.5, y: 66}
+        - {x: 179.5, y: 83}
+        - {x: -18.5, y: 83}
+        - {x: -25.5, y: 77}
+        - {x: -25.5, y: -1}
+    - name: shepherd-pull_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -18}
+        - {x: 47.5, y: -19}
+        - {x: 47.5, y: -118}
+        - {x: 187.5, y: -118}
+        - {x: 187.5, y: 66}
+        - {x: 179.5, y: 83}
+        - {x: -18.5, y: 83}
+        - {x: -25.5, y: 77}
+        - {x: -25.5, y: -1}
+    - name: shepherd-pull_17
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -18}
+        - {x: 47.5, y: -19}
+        - {x: 47.5, y: -118}
+        - {x: 187.5, y: -118}
+        - {x: 187.5, y: 66}
+        - {x: 179.5, y: 83}
+        - {x: -18.5, y: 83}
+        - {x: -25.5, y: 77}
+        - {x: -25.5, y: -1}
+    - name: shepherd-pull_18
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 0
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -18}
+        - {x: 47.5, y: -19}
+        - {x: 47.5, y: -118}
+        - {x: 187.5, y: -118}
+        - {x: 187.5, y: 66}
+        - {x: 179.5, y: 83}
+        - {x: -18.5, y: 83}
+        - {x: -25.5, y: 77}
+        - {x: -25.5, y: -1}
+    - name: shepherd-pull_19
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 0
+        width: 403
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: -18}
+        - {x: 47.5, y: -19}
+        - {x: 47.5, y: -118}
+        - {x: 187.5, y: -118}
+        - {x: 187.5, y: 66}
+        - {x: 179.5, y: 83}
+        - {x: -18.5, y: 83}
+        - {x: -25.5, y: 77}
+        - {x: -25.5, y: -1}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
