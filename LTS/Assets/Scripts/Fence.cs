@@ -25,6 +25,7 @@ public class Fence : MonoBehaviour {
         if (getDistance(this.gameObject, shepherd) < 9) {
             open.SetActive(true);
             closed.SetActive(false);
+            AudioManager.instance.PlaySound2D("Fence");
             GetComponent<BoxCollider2D>().isTrigger = true;
 
         }

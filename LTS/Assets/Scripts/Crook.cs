@@ -44,7 +44,7 @@ public class Crook : MonoBehaviour {
     {
         yield return new WaitForSeconds(1.5f);
         if (frames2 > 100) {
-            AudioManager.instance.PlaySound2D("Sheep Hurt");
+            AudioManager.instance.PlaySound2D("Sheep Thrown");
             frames2 = 0;
             AudioManager.instance.PlaySound2D("Shepherd Attack");
         }
